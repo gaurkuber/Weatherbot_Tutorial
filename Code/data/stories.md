@@ -88,3 +88,5 @@
    - action_weather
 * goodbye
    - utter_goodbye
+## Generated Story 0
+

@@ -14,5 +14,5 @@ def run_nlu():
 	print(interpreter.parse(u"I am planning my holiday to Lithuania. I wonder what is the weather out there."))
 	
 if __name__ == '__main__':
-	train_nlu('./data/data.json', 'config_spacy.json', './models/nlu')
+	#train_nlu('./data/data.json', 'config_spacy.json', './models/nlu')
 	run_nlu()
